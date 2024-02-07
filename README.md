@@ -10,13 +10,13 @@
 <b><p align="center">📊 GɪᴛHᴜʙ Sᴛᴀᴛs</p></b>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=BikashKM&cc=000&tc=00ff00&ic=fff000&include_all_commits=true&bc=fff" align="center"></p></div>
+<img src="https://github-stats-alpha.vercel.app/api/?username=BKM-TG-Info&cc=000&tc=00ff00&ic=fff000&include_all_commits=true&bc=fff" align="center"></p></div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BikashKM&&show_icons=true&theme=highcontrast" align="center"></p> 
+<img src="https://github-readme-stats.vercel.app/api?username=BKM-TG-Info&&show_icons=true&theme=highcontrast" align="center"></p> 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BikashKM&theme=highcontrast&hide_border=false&include_all_commits=true&layout=compact" align="center"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKM-TG-Info&theme=highcontrast&hide_border=false&include_all_commits=true&layout=compact" align="center"></p>
 
 <div align="center">
 <b><p align="center"><b>☎️ Cᴏɴᴛᴀᴄᴛ Mᴇ</p></b>
