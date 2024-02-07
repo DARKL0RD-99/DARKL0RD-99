@@ -1,4 +1,4 @@
-<img align="center" alt="Coding GIF" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"></img>
+<img align="center" alt="Coder GIF" width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"></img>
 
 <div align="center">
 <b><p align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</p></b>
