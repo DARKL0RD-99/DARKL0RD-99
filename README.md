@@ -10,15 +10,15 @@
 <b><p align="center">📊 GɪᴛHᴜʙ Sᴛᴀᴛs</p></b>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=BKM-TG-Info&cc=000&tc=00ff00&ic=fff000&include_all_commits=true&bc=fff" align="center"></p></div>
+<img src="https://github-stats-alpha.vercel.app/api/?username=DARKL0RD-99&cc=000&tc=00ff00&ic=fff000&include_all_commits=true&bc=fff" align="center"></p></div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BKM-TG-Info&&show_icons=true&theme=highcontrast" align="center"></p> 
+<img src="https://github-readme-stats.vercel.app/api?username=DARKL0RD-99&show_icons=true&theme=highcontrast" align="center"></p> 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKM-TG-Info&theme=highcontrast&hide_border=false&include_all_commits=true&layout=compact" align="center"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKL0RD-99&theme=highcontrast&hide_border=false&include_all_commits=true&layout=compact" align="center"></p>
 
 <div align="center">
 <b><p align="center"><b>☎️ Cᴏɴᴛᴀᴄᴛ Mᴇ</p></b>
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://telegram.me/DARKL0RD_TG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61550232132439) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maity.speaking_) 
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://telegram.me/DARKL0RD_99) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61550232132439) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maity.speaking_) 
